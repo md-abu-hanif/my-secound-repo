@@ -6,9 +6,9 @@ p{
 }
 
 h{
-    background-color: blue;
+    background-color: rgb(92, 92, 158);
 } 
 .HI{
-    color: crimson;
-    text-align: left;
+    color: rgb(163, 66, 86);
+    text-align: right;
 }
